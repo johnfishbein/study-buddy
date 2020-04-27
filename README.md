@@ -1,4 +1,13 @@
 # project-103-study-buddy
+StudyBuddy Web Application
+
+Hosted on Heroku at: https://studdybuddy103.herokuapp.com/
+
+Authors: John Fishbein, Matt Hunt, Holly Wikiera, Sierra Arnold
+
+<br>
+To run locally:
+
 Set up virtual environment and activate.
 
 pip install -r requirements.txt
